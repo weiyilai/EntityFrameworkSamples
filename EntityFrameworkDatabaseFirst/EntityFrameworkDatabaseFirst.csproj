@@ -397,7 +397,6 @@
     <Content Include="Models\NorthwindModel.edmx.diagram">
       <DependentUpon>NorthwindModel.edmx</DependentUpon>
     </Content>
-    <Content Include="libman.json" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
