@@ -1,5 +1,4 @@
 ﻿using EntityFrameworkDatabaseFirst.Models;
-using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Web.Mvc;
 
