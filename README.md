@@ -5,11 +5,15 @@
 ### Monolithic
 
 EntityFrameworkDatabaseFirst
+
 EntityFrameworkDatabaseFirstWithBizLogic
 
 ### N-Tier
 
 Application
+
 Domain
+
 Infrastructure
+
 Web
