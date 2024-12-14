@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace EntityFrameworkDatabaseFirstWithBizLogic.Models
+namespace Domain
 {
     public class EmployeesMetadata
     {
